@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e84a17e3a6072744b73445edb38a722, type: 3}
+  m_Name: ItemDataReader
+  m_EditorClassIdentifier: 
+  associatedSheet: 1Wj-NhHOCt8KN1YjZ6-hHP5KF8mozMdXT5zwoziEVQEc
+  associatedWorksheet: Sheet1
+  START_ROW_LENGTH: 2
+  END_ROW_LENGTH: 17
+  DataList:
+  - name: "\uD558\uD2B82"
+    id: 2
+    suit: "\uD558\uD2B8"
+  - name: "\uD558\uD2B83"
+    id: 3
+    suit: "\uD558\uD2B8"
+  - name: "\uD558\uD2B84"
+    id: 4
+    suit: "\uD558\uD2B8"
+  - name: "\uD558\uD2B85"
+    id: 5
+    suit: "\uD558\uD2B8"
+  - name: "\uC2A4\uD398\uC774\uB4DC2"
+    id: 2
+    suit: "\uC2A4\uD398\uC774\uB4DC"
+  - name: "\uC2A4\uD398\uC774\uB4DC3"
+    id: 3
+    suit: "\uC2A4\uD398\uC774\uB4DC"
+  - name: "\uC2A4\uD398\uC774\uB4DC4"
+    id: 4
+    suit: "\uC2A4\uD398\uC774\uB4DC"
+  - name: "\uC2A4\uD398\uC774\uB4DC5"
+    id: 5
+    suit: "\uC2A4\uD398\uC774\uB4DC"
+  - name: "\uB2E4\uC774\uC5442"
+    id: 2
+    suit: "\uB2E4\uC774\uC544"
+  - name: "\uB2E4\uC774\uC5443"
+    id: 3
+    suit: "\uB2E4\uC774\uC544"
+  - name: "\uB2E4\uC774\uC5444"
+    id: 4
+    suit: "\uB2E4\uC774\uC544"
+  - name: "\uB2E4\uC774\uC5445"
+    id: 5
+    suit: "\uB2E4\uC774\uC544"
+  - name: "\uD074\uB85C\uBC842"
+    id: 2
+    suit: "\uD074\uB85C\uBC84"
+  - name: "\uD074\uB85C\uBC843"
+    id: 3
+    suit: "\uD074\uB85C\uBC84"
+  - name: "\uD074\uB85C\uBC844"
+    id: 4
+    suit: "\uD074\uB85C\uBC84"
+  - name: "\uD074\uB85C\uBC845"
+    id: 5
+    suit: "\uD074\uB85C\uBC84"

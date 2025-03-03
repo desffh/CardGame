@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f213c9aeb68721242af19b2b9d85cc26, type: 3}
+  m_Name: ItemSO
+  m_EditorClassIdentifier: 
+  items:
+  - name: "\uC2A4\uD398\uC774\uB4DC1"
+    attack: 0
+    health: 0
+    sprite: {fileID: 21300000, guid: 3924dd0449c173e4aa69d07bdb73d5ed, type: 3}
+    percent: 20
+  - name: "\uC2A4\uD398\uC774\uB4DC2"
+    attack: 0
+    health: 0
+    sprite: {fileID: 21300002, guid: 3924dd0449c173e4aa69d07bdb73d5ed, type: 3}
+    percent: 20
+  - name: "\uC2A4\uD398\uC774\uB4DC3"
+    attack: 0
+    health: 0
+    sprite: {fileID: 21300004, guid: 3924dd0449c173e4aa69d07bdb73d5ed, type: 3}
+    percent: 20
+  - name: "\uC2A4\uD398\uC774\uB4DC4"
+    attack: 0
+    health: 0
+    sprite: {fileID: 21300006, guid: 3924dd0449c173e4aa69d07bdb73d5ed, type: 3}
+    percent: 20
+  - name: "\uC2A4\uD398\uC774\uB4DC5"
+    attack: 0
+    health: 0
+    sprite: {fileID: 21300008, guid: 3924dd0449c173e4aa69d07bdb73d5ed, type: 3}
+    percent: 20
